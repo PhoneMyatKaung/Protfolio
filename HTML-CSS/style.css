@@ -1,0 +1,7 @@
+table,th,td 
+{border:1px solid white;
+    border-collapse: collapse;
+}
+td:nth-child(even) ,th :nth-child(even) {
+    background-color:#d6edee;
+}
